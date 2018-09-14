@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Python Calculator
+Python Calculator is a simple calculator with basic arithmetical operations!
+Our Website [Porishima.xyz](www.porishima.xyz) 
 
-You can use the [editor on GitHub](https://github.com/niloyrashidofficial/PythonCalculator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### CodeProject
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Python Calculator is our #1st Collab Project, we made this project to develop our skills and to provide...
 
-### Markdown
+### New Features!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- You can now use your keyboard to calculate using our Calculator
+- Updating Dark UI 
+- Bugs Fixed!
 
-```markdown
-Syntax highlighted code block
+### **Screenshots** 
+**`>>> print ("Click on the link below to view image!")`**
 
-# Header 1
-## Header 2
-### Header 3
+[Image](www.instagram.com)
 
-- Bulleted
-- List
+### About Collab Project
+We made this python calculator project with a mission to develop our Programming Skills and to fulfill the demand of our audience!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niloyrashidofficial/PythonCalculator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Developers Contact:
+1. **Niloy Rashid**: www.instagram.com/niloyrashidofficial
+2. **George**: www.instagram.com/loop.pe
